@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: crack densities
+description: a novel approach for quantifying damage level
+img: assets/img/CrackNetwork/cracknetwork2.png
+redirect: https://arxiv.org/pdf/2006.10342.pdf
+importance: 2
+category: Inverse Scattering Problems
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

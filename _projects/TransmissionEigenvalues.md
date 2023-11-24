@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+title: Sampling Methods
+description: an efficient method that I extend to new scenarios
+img: assets/img/TransmissionEigenvalue/transmission_eigenvalue2.png
+redirect: https://theses.hal.science/tel-02885422v1/document
+importance: 2
+category: Inverse Scattering Problems
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

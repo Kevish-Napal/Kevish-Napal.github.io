@@ -1,15 +1,15 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: poroelasticity
+description: imaging of hydraulic fractures with elastic waveforms and/or pore pressure measurements
+img: assets/img/Poroelasticity/poro.png
+redirect: https://arxiv.org/pdf/2105.00661.pdf
+importance: 2
+category: Inverse Scattering Problems
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Simply put the paper with Fatemeh here
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
