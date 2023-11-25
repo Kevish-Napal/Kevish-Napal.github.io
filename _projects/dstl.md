@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cloaking
-description: the use of resonators in a metasurface allows to filter specific frequencies
+description: the use of resonators in a metasurface allows to filter specific frequencies. This project was supported by dstl.
 img: assets/img/SummerInternship2022/resonators.png
 importance: 2
 category: Random Media
