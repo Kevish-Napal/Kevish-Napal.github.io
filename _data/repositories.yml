@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Kevish-Napal
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Kevish-Napal/EffectiveTMatrix.jl
+  - Kevish-Napal/MultipleScattering.jl
+  - Kevish-Napal/EffectiveWaves.jl
