@@ -7,16 +7,16 @@ nav: true
 nav_order: 5
 ---
 
-#### 1. Numerical methods for differential equations (2016-2018) L3
+#### <span style="color:turquoise"> 1. Numerical methods for differential equations (2016-2018) L3 </span>
 Tutorial sessions and practical exercises on Python for the lectures of Marie Postel.
 
 
-#### 2. Error-correcting codes \& Cryptography (2018-2019) L2 
+#### <span style="color:turquoise"> 2. Error-correcting codes \& Cryptography (2018-2019) L2 </span>
 Tutorial sessions for the lectures of Laurent Koelblen.
 
 
-#### 4. Khôlles (2016-2017) L3  
-preparation to the oral sessions of the entrance exam to French schools of Engineering.
+#### <span style="color:turquoise"> 4. Khôlles (2016-2017) L3 </span>
+Prepare students to the oral sessions of the entrance exam to French schools of Engineering <br> (Ecole Polytechnique, ENS, Ecole Centrale, etc.).
 
-#### 3. Symbolic computation with Wolfram Alpha (2016-2018) L1
+#### <span style="color:turquoise"> 3. Symbolic computation with Wolfram Alpha (2016-2018) L1 </span>
 
